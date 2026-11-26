@@ -1,9 +1,5 @@
 # Andersonmoreno-
 Presentacion 
-<p align="center">
-  <img src="PEGA_AQUÍ_EL_ENLACE_DE_GITHUB" alt="Código JavaScript" width="500"/>
-</p>
-
 
 
 <!-- Banner o GIF animado de presentación -->
@@ -86,3 +82,4 @@ Estas son las herramientas que me llaman mucho la atención y en las que estoy i
   <img height="175em" src="https://vercel.app"/>
   <img height="175em" src="https://vercel.app"/>
 </div>
+<img width="560" height="500" alt="imagen" src="https://github.com/user-attachments/assets/e078958b-9fbb-44a6-85ab-2ba5c03769e0" />
