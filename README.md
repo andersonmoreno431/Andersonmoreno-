@@ -1,5 +1,9 @@
 # Andersonmoreno-
 Presentacion 
+<p align="center">
+  <img src="PEGA_AQUÍ_EL_ENLACE_DE_GITHUB" alt="Código JavaScript" width="500"/>
+</p>
+
 
 
 <!-- Banner o GIF animado de presentación -->
