@@ -1,8 +1,5 @@
 # Andersonmoreno-
 Presentacion 
-<p align="center">
-  <img src="https://gifdb.com" alt="Hello World" width="500"/>
-</p>
 
 
 <!-- Banner o GIF animado de presentación -->
