@@ -1,6 +1,11 @@
 # Andersonmoreno-
 Presentacion 
 
+<div align="center">
+  <img src="https://github.com" alt="Banner código futurista" width="100%" />
+</div>
+
+
 <!-- Banner o GIF animado de presentación -->
 <div align="center">
   <img src="https://github.com/user-attachments/assets/e3d49d6f-4505-4f3a-a53d-a8f81c9402a9" alt="Banner animado de programación" width="100%" />
