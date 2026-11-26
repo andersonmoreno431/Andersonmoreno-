@@ -1,10 +1,8 @@
 # Andersonmoreno-
 Presentacion 
-
 <div align="center">
-  <img src="https://github.com" alt="Banner código futurista" width="100%" />
+  <img src="https://github.com" alt="imagen.git" width="100%" />
 </div>
-
 
 <!-- Banner o GIF animado de presentación -->
 <div align="center">
