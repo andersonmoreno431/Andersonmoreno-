@@ -1,5 +1,9 @@
 # Andersonmoreno-
 Presentacion 
+<p align="center">
+  <img src="https://giphy.com" alt="Computer Coding" width="500"/>
+</p>
+
 
 <!-- Banner o GIF animado de presentación -->
 <div align="center">
