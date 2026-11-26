@@ -4,7 +4,7 @@ Presentacion
 
 <!-- Banner o GIF animado de presentación -->
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/e078958b-9fbb-44a6-85ab-2ba5c03769e0" alt="Banner animado de programación" width="40%" />
+  <img src="https://github.com/user-attachments/assets/e078958b-9fbb-44a6-85ab-2ba5c03769e0" alt="Banner animado de programación" width="30%" />
 </div>
 
 <h1 align="center">¡Hola! Soy Anderson Moreno 💻</h1>
